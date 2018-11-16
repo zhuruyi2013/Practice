@@ -1,0 +1,19 @@
+@startuml
+
+interface NestedScrollingParent
+interface NestedScrollingParent2
+
+NestedScrollingParent <|-- NestedScrollingParent2
+
+class CoordinatorLayout {
+
+}
+
+abstract class CoordinatorLayout.Behavior
+interface CoordinatorLayout.AttachedBehavior{
+  CoordinatorLayout.Behavior getBehavior();
+}
+
+NestedScrollingParent2 <|.. CoordinatorLayout
+
+@enduml

@@ -1,4 +1,4 @@
-package shortcutdemo.zry.com.shortcutdemo
+package com.zry.shortcutdemo
 
 import android.content.Intent
 import android.os.Bundle
