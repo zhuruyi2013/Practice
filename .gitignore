@@ -55,7 +55,6 @@ freeline/
 freeline_project_description.json
 extension/src/androidTest/
 extension/src/test/
-app/src/main/AndroidManifest.xml.rej
 .project
 .settings
 .vscode
