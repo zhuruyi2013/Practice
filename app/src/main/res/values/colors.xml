@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FB3449</color>
+    <color name="colorPrimaryDark">#FB3449</color>
+    <color name="colorAccent">#FB3449</color>
+
+    <color name="dada_black">#000000</color>
+    <color name="dada_black_transparent_70">#A8000000</color>
+    <color name="dada_black_transparent_50">#7F000000</color>
+    <color name="dada_black_transparent_40">#66000000</color>
+    <color name="dada_black_1">#262626</color>
+    <color name="white">#ffffff</color>
+    <color name="white_transparent_70">#B2FFFFFF</color>
+    <color name="white_transparent_50">#7FFFFFFF</color>
+    <color name="dada_gray_1">#b3b3b3</color>
+    <color name="dada_gray_2">#E6E6E6</color>
+    <color name="dada_gray_3">#737373</color>
+    <color name="dada_gray_4">#C0C0C0</color>
+    <color name="dada_gray_5">#F7F7F7</color>
+    <color name="dada_gray_6">#CCCCCC</color>
+    <color name="dada_gray_7">#B3B3B3</color>
+    <color name="dada_gray_8">#F2F2F2</color>
+    <color name="dada_gray_9">#FFEBED</color>
+    <color name="dada_gray_10">#666666</color>
+    <color name="dada_yellow_1">#FDDF86</color>
+    <color name="dada_yellow_2">#FCF7B8</color>
+    <color name="dada_yellow_3">#E98400</color>
+    <color name="dada_yellow_4">#FACD5A</color>
+    <color name="dada_yellow_5">#FBCA34</color>
+    <color name="dada_yellow_6">#FFBE2E</color>
+    <color name="dada_yellow_7">#FFE27F</color>
+    <color name="dada_yellow_8">#B3FFFBE2</color>
+    <color name="dada_blue_gray">#DEDFE3</color>
+    <color name="dada_blue_1">#5DA3F5</color>
+    <color name="dada_blue_2">#b25194E5</color>
+    <color name="dada_blue_3">#5194E5</color>
+    <color name="dada_blue_4">#419bf9</color>
+    <color name="dada_blue_5">#FF65CBF7</color>
+    <color name="dada_blue_6">#4C65CBF7</color>
+    <color name="dada_blue_7">#3496FB</color>
+    <color name="dada_blue_8">#2F86EB</color>
+    <color name="dada_red_1">#FEF5F6</color>
+    <color name="dada_red_2">#F4D4D8</color>
+    <color name="dada_red_3">#FB5224</color>
+    <color name="dada_red_4">#FC926F</color>
+    <color name="dada_red_5">#FB5B5B</color>
+    <color name="dada_red_6">#FC5B5C</color>
+    <color name="dada_red_7">#D14D4C</color>
+    <color name="dada_red_8">#4cFB3449</color>
+    <color name="dada_red_9">#FEC2C8</color>
+    <color name="dada_red_10">#FD4659</color>
+    <color name="dada_brown_1">#A16733</color>
+    <color name="dada_origin_1">#FF8800</color>
+    <color name="dada_bg_1">#F7F7F7</color>
+    <color name="dada_bt_disable">#FEC2C8</color>
+    <color name="dada_green_1">#14CC2D</color>
+    <color name="dada_shadow">#12000000</color>
+    <color name="dada_shadow_minor">#33FB3449</color>
+    <color name="dada_shadow_curriculum">#336570FF</color>
+
+    <color name="dada_translucent_1">#4D000000</color>
+    <color name="dada_translucent_2">#B3000000</color>
+    <color name="dada_translucent_3">#202020</color>
+
+    <color name="dada_home_gradient_end">#00000000</color>
+    <color name="dada_home_gradient_start">#11000000</color>
+
+    <!--网页进度条颜色-->
+    <color name="primary_light">#40B45F</color>
+
+    <!--底部菜单选择文字颜色-->
+    <color name="textClickColor">#F18281</color>
+
+    <!--分享面板颜色-->
+    <color name="shareColor">#F2ffffff</color>
+
+    <color name="button_green_background">#FF25B525</color>
+
+    <color name="evaluate_green">#43952A</color>
+    <color name="dada_divider_new">#D8D8D8</color>
+
+    <color name="dialogBackground">#99000000</color>
+
+    <color name="dada_shadow_color">#0F000000</color>
+
+    <color name="dada_show_toolbar_color">#4D000000</color>
+
 </resources>
