@@ -94,4 +94,7 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="no_more_data">all loaded</string>
+    <string name="bottom_loading">loading…</string>
+    <string name="bottom_loading_error">load error</string>
 </resources>
